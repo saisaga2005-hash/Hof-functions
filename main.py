@@ -1,16 +1,43 @@
-# This is a sample Python script.
+'''n=10
+i=1
+while (1,n):
+    if i<=n:
+        print(i)
+        i+=1'''
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+'''n=1   #print numbers from 10 to 1(reverse order)
+i=10
+while(10, n):
+    if i>=n:
+        print(i)
+        i=i-1'''
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+'''n=20   #print even numbers from 1 to 20
+i=2
+while(2,n +2):
+    if i<=n:
+        print(i)
+        i=i+2'''
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+'''n=20      # odd numbers
+i=1
+while(1,20 +2):
+    if i<=n:
+        print(i)
+        i=i+2'''
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+n=10
+i=0
+while(1,10):
+    if i<=n:
+        print(i)
+        i=i+1
+
+
+
+
+
+
